@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sahil Ranout Software Developer. </h1>
+<h1 align="center">Hi 👋, I'm Prakash Majhi Android Engineer. </h1>
 <h3 align="center">A Software Developer from India.</h3>
-<p align="left"> <a href="https://github.com/mrwebbeast"><img src="https://github-profile-trophy.vercel.app/?username=mrwebbeast" alt="mrwebbeast" /></a> </p>
+<p align="left"> <a href="https://github.com/mrwebbeast"><img src="https://github-profile-trophy.vercel.app/?username=prak899" alt="Prakash Majhi" /></a> </p>
 
-- 🔭 I’m currently working as Mobile Application Developer | Flutter| Android | Java | Dart
+- 🔭 I’m currently working as Mobile Application Developer | Flutter| Android | Java | Dart | Kotlin
 
 - 🌱 I’m currently Improving ** Data structure and Algorithm **
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/mrwebbeast/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mrwebbeast/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mrwebbeast/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nameismajhi/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mrwebbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mrwebbeast" height="30" width="40" /></a>
 <a href="https://twitter.com/mrwebbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrwebbeast" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mrwebbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrwebbeast" height="30" width="40" /></a>
@@ -38,8 +38,8 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrwebbeast&show_icons=true&locale=en&layout=compact" alt="mrwebbeast" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prak899&show_icons=true&locale=en&layout=compact" alt="Prakash Majhi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrwebbeast&show_icons=true&locale=en" alt="mrwebbeast" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prak899&show_icons=true&locale=en" alt="mrwebbeast" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrwebbeast&" alt="mrwebbeast" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prak899&" alt="mrwebbeast" /></p>
